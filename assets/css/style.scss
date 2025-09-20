@@ -6,8 +6,9 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.site-logo::before {
-  height: 100px; /* Adjust size as needed */
+.site-logo {
+  order: -1;
+  height: 100px;
   width: auto;
   vertical-align: middle;
   margin-right: 10px;
