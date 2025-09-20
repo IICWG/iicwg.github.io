@@ -11,6 +11,14 @@
   border-bottom: 1px solid $border-color-01;
 }
 
+.site-masthead {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
