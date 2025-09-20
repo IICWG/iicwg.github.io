@@ -6,6 +6,12 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+// Make the header a flex container to control element order
+.site-header .wrapper {
+  display: flex;
+  align-items: center; 
+}
+
 .site-logo {
   order: -1;
   height: 100px;
