@@ -7,6 +7,3 @@
 #
 layout: home
 ---
-
-# Something Else Before Posts
-Testing adding other content before the recent posts.
