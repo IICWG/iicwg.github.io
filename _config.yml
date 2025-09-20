@@ -56,3 +56,6 @@ minima:
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
+
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: assets/images/IICWG_logo_25th_color_48dpi_200x200_very_small.png
